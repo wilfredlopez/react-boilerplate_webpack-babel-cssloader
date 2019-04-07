@@ -1,0 +1,8 @@
+1st start of the project
+yarn install
+yarn run-dev-server
+{START CODING AND HAVE FUN!}
+
+
+TO UPDATE AND PUSH TO HEROKU PLEASE RUN yarn run build:prod
+THEN IS OK TO PUSH
